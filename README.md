@@ -1,16 +1,13 @@
-## Hi there 👋
+README
+ · MD
 
-<!--
-**Sneha6657/Sneha6657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My code has two states: "it works and I don't know why" and "it's broken and I don't know why."
 
-Here are some ideas to get you started:
+I build projects, break them, fix them, and then start three new ones before finishing the old ones. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 About Me
+🔨 Always building: too many projects.
+🍿 Ask me about: what to watch tonight (I always have a list)
+
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react" alt="Tech stack: Python, C, C++, HTML, CSS, JavaScript, React" /> </p>
