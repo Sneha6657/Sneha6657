@@ -1,9 +1,6 @@
-<p align="left">
-  <a href="https://tenor.com/view/let-him-cook-magic-book-gif-1102161801382364395">
-    <img src="assets/let-him-cook.gif" alt="Let Him Cook Magic GIF" width="320" />
-  </a>
+<p>
+  <img src="let-him-cook-magic.gif" alt="Let Him Cook Magic GIF" width="300" />
 </p>
-<div align="center">
 
 ### 💻 My code has two states: *"it works and I don't know why"* and *"it's broken and I don't know why."*
 
